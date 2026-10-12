@@ -18,7 +18,7 @@ const HeroBranding = () => {
           <div key={i} className="flex items-center mx-4">
             <img 
               src="https://i.imgur.com/oNVplpt.png" 
-              alt="Brandy Melville Logo" 
+              alt="Ulta Beauty Logo" 
               className="h-8 sm:h-10 w-auto object-contain"
             />
           </div>
@@ -27,7 +27,7 @@ const HeroBranding = () => {
           <div key={`dup-${i}`} className="flex items-center mx-4">
             <img 
               src="https://i.imgur.com/lkizZtN.jpeg" 
-              alt="Brandy Melville Logo" 
+              alt="Ulta Beauty Logo" 
               className="h-8 sm:h-10 w-auto object-contain"
             />
           </div>
@@ -45,7 +45,7 @@ const HeroBranding = () => {
             <div className="relative z-10 w-[240px] sm:w-[320px] mx-auto transition-transform duration-500 group-hover:scale-105">
               <img 
                 src="https://i.imgur.com/rpASKno.png" 
-                alt="Brandy Melville $750 Gift Card" 
+                alt="Ulta Beauty $500 Gift Card" 
                 className="w-full h-auto"
               />
               
