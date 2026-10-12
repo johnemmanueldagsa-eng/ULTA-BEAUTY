@@ -10,7 +10,7 @@ const MainLogo = () => {
     >
       <img 
         src="https://i.imgur.com/GsvfoMC.jpeg6" 
-        alt="Brandy Melville Logo" 
+        alt="Ulta Beauty Logo" 
         className="h-10 sm:h-25 w-25 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
