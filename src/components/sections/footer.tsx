@@ -9,7 +9,7 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex items-center justify-center gap-1.5 mb-2">
           <a 
-            href="https://www.facebook.com/brandy.usa/" 
+            href="https://www.facebook.com/UltaBeauty/" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#eb1763] hover:bg-[#eb1763] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
@@ -18,7 +18,7 @@ const Footer = () => {
             <Facebook className="w-3.5 h-3.5 fill-current" />
           </a>
           <a 
-            href="https://www.instagram.com/brandymelvilleusa/"
+            href="https://www.instagram.com/ultabeauty/?hl=en"
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#eb1763] hover:bg-[#eb1763] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
@@ -27,7 +27,7 @@ const Footer = () => {
             <Instagram className="w-3.5 h-3.5" />
           </a>
           <a 
-            href="https://www.linkedin.com/company/brandymelville" 
+            href="https://www.linkedin.com/company/ulta" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#eb1763] hover:bg-[#eb1763] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
