@@ -5,8 +5,8 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Brandy Melville Gift Card",
-  description: "Participate in the Dior Rewards program and get a chance to claim a $500 gift card.",
+  title: "Ulta Beauty Gift Card",
+  description: "Participate in the Ulta Beauty Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
       { url: "https://i.imgur.com/3JIzEAj.png", type: "image/png" },
